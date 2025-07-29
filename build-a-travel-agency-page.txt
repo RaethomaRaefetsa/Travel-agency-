@@ -1,0 +1,43 @@
+** start of index.html **
+
+<!Doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Travel agency page</title>
+     <meta name="Description" content="Explore exciting travel destinations and packages with our travel agency."/>
+  </head>
+  <body>
+    <h1>Discover South Africa</h1>
+    <p>South Africa offers a unique blend of natural beauty, cultural diversity, and thrilling adventures.From majestic wildlife safaris and iconic landmarks like Table mountain to vibrant cities and golden beaches, South African tourism promises unforgettable experiences for every traveler.</p>
+    <h2>Packages</h2>
+    <p>Our travel agency offers exciting packages including wildlife safaris, capetown city tours, Garden Route adventures, beach getaways,and cultural heritage experiences.</p>
+    <ul>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+        </li>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Safari in South Africa"/></a>
+      <figcaption>Experience an unforgettable safari adventure.</figcaption>
+      </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Explore the vibrant city of Cape Town"/></a>
+      <figcaption>Explore the vibrant city of Cape Town.</figcaption>
+      </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Relax on South African Beaches"/></a>
+      <figcaption>Relax on Soiuth African beaches</figcaption>
+      </figure>
+  </body>
+</html>
+
+
+** end of index.html **
+
